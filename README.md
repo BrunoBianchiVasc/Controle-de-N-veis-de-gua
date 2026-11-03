@@ -108,4 +108,3 @@ Para usar um valor fixo em vez de sorteado, troque a leitura do sensor por, por 
 
 Desenvolvido por Bruno 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHubBrunoBianchiVasc181717?style=flat&logo=github)](https://github.com/BrunoBianchiVasc)
