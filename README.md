@@ -67,7 +67,7 @@ Este sistema **não realiza cálculos matemáticos**. Ele funciona por associaç
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/SEU-USUARIO/controle-niveis-agua.git
+git clone https://github.com/BrunoBianchiVasc/controle-niveis-agua.git
 cd controle-niveis-agua
 ```
 
